@@ -8,5 +8,5 @@ pip2 install requests
 pip2 install bs4
 git clone https://github.com/afifraden77/wsted
 cd wsted
-python2 romz.py
+python2 wsted.py
 
